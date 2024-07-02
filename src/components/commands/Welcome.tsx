@@ -39,7 +39,7 @@ const Welcome: React.FC = () => {
           Check Out My Blog Website, It Mainly Contains Writeups, <br></br>
           My Findings And Notes On Various Topics On <br></br>
           Information Technology And Security <br></br> Here {" "}
-          <Link href="https://blog.Ch3tanbug.sec">
+          <Link href="https://ch3tanbugportfolio-1jwb4lsy7-ch3tanbugs-projects.vercel.app/blog">
             Ch3tanbug Blog
           </Link>
         </div>
